@@ -2,7 +2,7 @@
 
 ### A passionate Full Stack Developer Indonesian
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=VibraHub-MasanganKulon&label=Profile views&color=0e75b6&style=flat" alt="VibraHub-MasanganKulon" /> </p>
+###
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=VibraHub-MasanganKulon&rank_icon=percentile&custom_title=My%20Github%20Stats&show_icons=true&include_all_commits=true&theme=nightowl)](https://github-stats-extended.vercel.app/api?username=VibraHub-MasanganKulon&rank_icon=percentile&custom_title=My%20Github%20Stats&show_icons=true&include_all_commits=true&theme=nightowl)
 
